@@ -21,9 +21,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=FaizanUlHaq262&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=FaizanUlHaq262&icon=5&color=1)](https://visitcount.itsvg.in)
 
