@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on recommendation system using the Amazon review dataset<br>👯 I’m looking to collaborate on future project<br>🌱 I’m currently learning data warehousing <br>💬 Ask me about Python, Big Data, Machine Learning
+🔭 Currently looking for an internship<br>👯 I’m looking to collaborate on future project<br>🌱 I’m currently learning data warehousing,Visualizations and Deep Learning <br>💬 Ask me about Python, Big Data, Machine Learning
 
 
 ## 🌐 Socials:
