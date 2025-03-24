@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently looking for an internship<br>👯 I’m looking to collaborate on future project<br>🌱 I’m currently learning data warehousing,Visualizations and Deep Learning <br>💬 Ask me about Python, Big Data, Machine Learning
+🔭 On the look out for opportunities to make big impacts<br>👯 I’m looking to collaborate on future project<br>🌱 I’m currently learning data warehousing,Visualizations and Deep Learning <br>💬 Ask me about Python, Big Data, Machine Learning & web development 
 
 
 ## 🌐 Socials:
